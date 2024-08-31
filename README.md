@@ -14,7 +14,7 @@ This project is part of the INDMoney Assignment, designed to [briefly describe t
 
    ```bash
    git clone https://github.com/VanshajTiwari/INDMoney.git
-   cd indmoney-assignment
+   cd INDMoney
    npm i
    bun dev ( if bun is installed )
    npm i -g bun( to install bun on your system )
