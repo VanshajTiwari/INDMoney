@@ -1,5 +1,7 @@
 # INDMoney Assignment
 
+deployed link : https://ind-money.vercel.app/
+
 This project is part of the INDMoney Assignment, designed to [briefly describe the project objective]. It leverages Bun for faster execution and includes a mobile-first responsive nested accordion.
 
 ## Features
